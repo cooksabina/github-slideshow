@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+there's a spider on the ceiling
 Use the left arrow to go back!
